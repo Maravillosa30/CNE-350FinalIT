@@ -38,15 +38,19 @@ The commands to successfuly download and run the qBittorent  on the Raspberry Pi
    
    ![alt text](https://github.com/Maravillosa30/CNE-350FinalIT/blob/main/2024-03-20.png)
 
+   Then, the qBittorent will pop open on the screen
+
    ![alt text](https://github.com/Maravillosa30/CNE-350FinalIT/blob/main/Torrent.png)
   
 
-   Also, enable Web UI through the client software.
+   Also, enable Web UI through the client software and configure the app to your design.
+   
 
    ![alt text](https://github.com/Maravillosa30/CNE-350FinalIT/blob/main/PreferencesT.png)
+   
 
 
-4. open your favorite Web-browser and enter the Raspberry Pi IP ADDRESS 
+5.  Lastly, open your favorite Web-browser and enter the Raspberry Pi IP ADDRESS 
    
    
 
