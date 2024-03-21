@@ -34,11 +34,19 @@ The commands to successfuly download and run the qBittorent  on the Raspberry Pi
       $ sudo apt install qbittorrent
    ```
 
+
+
 3. Follow the instructionsto open qBittorent software  on the Raspberry Pi VNC.
+
+   
    
    ![alt text](https://github.com/Maravillosa30/CNE-350FinalIT/blob/main/2024-03-20.png)
 
+   
+
    Then, the qBittorent will pop open on the screen
+
+   
 
    ![alt text](https://github.com/Maravillosa30/CNE-350FinalIT/blob/main/Torrent.png)
   
@@ -48,6 +56,7 @@ The commands to successfuly download and run the qBittorent  on the Raspberry Pi
 
    ![alt text](https://github.com/Maravillosa30/CNE-350FinalIT/blob/main/PreferencesT.png)
    
+
 
 
 5.  Lastly, open your favorite Web-browser and enter the Raspberry Pi IP ADDRESS 
